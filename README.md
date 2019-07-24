@@ -11,6 +11,7 @@ Start with the school project - you can start with the project provided OR as a 
   * include custom message for error conditions
   * include messages for parameters, if any.
 
+
 * Add custom Swagger documentation to the model for Student, Course, and Instructor
 
 * Make pageable and sortable the following endpoints
